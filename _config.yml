@@ -21,7 +21,7 @@ title                    : "HermesJ_log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hermes J."
-description              : "공사중. Under construction. ブログ準備中です。"
+description              : "공사중. Under construction."
 url                      : "https://hermes-j.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "HyungJun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공사중. Under construction."
+  bio              : "공사중. Under construction. 日本語テスト： ブログ準備中です。"
   location         : "Seoul, South Korea"
   email            :
   links:
